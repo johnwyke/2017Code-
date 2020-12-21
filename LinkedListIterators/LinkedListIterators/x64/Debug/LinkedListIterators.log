@@ -1,0 +1,9 @@
+﻿  Linked List Iterators fall 2017b.cpp
+c:\users\john.wyke\documents\visual studio 2017\projects\linkedlistiterators\linkedlistiterators\linked list iterators fall 2017b.cpp(733): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\john.wyke\documents\visual studio 2017\projects\linkedlistiterators\linkedlistiterators\linked list iterators fall 2017b.cpp(737): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\john.wyke\documents\visual studio 2017\projects\linkedlistiterators\linkedlistiterators\linked list iterators fall 2017b.cpp(741): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\john.wyke\documents\visual studio 2017\projects\linkedlistiterators\linkedlistiterators\linked list iterators fall 2017b.cpp(745): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\john.wyke\documents\visual studio 2017\projects\linkedlistiterators\linkedlistiterators\linked list iterators fall 2017b.cpp(749): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\john.wyke\documents\visual studio 2017\projects\linkedlistiterators\linkedlistiterators\linked list iterators fall 2017b.cpp(156): warning C4715: 'Iterator<int>::operator++': not all control paths return a value
+  LinkedListIterators.vcxproj -> C:\Users\john.wyke\documents\visual studio 2017\Projects\LinkedListIterators\x64\Debug\LinkedListIterators.exe
+  LinkedListIterators.vcxproj -> C:\Users\john.wyke\documents\visual studio 2017\Projects\LinkedListIterators\x64\Debug\LinkedListIterators.pdb (Partial PDB)

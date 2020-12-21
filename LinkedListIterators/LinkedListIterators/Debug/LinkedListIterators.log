@@ -1,0 +1,4 @@
+﻿  Linked List Iterators fall 2017b.cpp
+c:\users\john.wyke\documents\visual studio 2017\projects\linkedlistiterators\linkedlistiterators\linked list iterators fall 2017b.cpp(156): warning C4715: 'Iterator<int>::operator++': not all control paths return a value
+  LinkedListIterators.vcxproj -> C:\Users\john.wyke\documents\visual studio 2017\Projects\LinkedListIterators\Debug\LinkedListIterators.exe
+  LinkedListIterators.vcxproj -> C:\Users\john.wyke\documents\visual studio 2017\Projects\LinkedListIterators\Debug\LinkedListIterators.pdb (Partial PDB)
