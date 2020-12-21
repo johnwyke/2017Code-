@@ -1,0 +1,18 @@
+C:\Users\john.wyke\Documents\Visual Studio 2017\Projects\Assignment3 - Copy\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\john.wyke\Documents\Visual Studio 2017\Projects\Assignment3 - Copy\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\john.wyke\Documents\Visual Studio 2017\Projects\Assignment3 - Copy\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\john.wyke\Documents\Visual Studio 2017\Projects\Assignment3 - Copy\Assignment3\obj\Debug\Assignment7.csprojResolveAssemblyReference.cache
+C:\Users\john.wyke\Documents\Visual Studio 2017\Projects\Assignment3 - Copy\Assignment3\obj\Debug\Assignment3.Form1.resources
+C:\Users\john.wyke\Documents\Visual Studio 2017\Projects\Assignment3 - Copy\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+C:\Users\john.wyke\Documents\Visual Studio 2017\Projects\Assignment3 - Copy\Assignment3\obj\Debug\Assignment7.csproj.GenerateResource.Cache
+C:\Users\john.wyke\Documents\Visual Studio 2017\Projects\Assignment3 - Copy\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\john.wyke\Documents\Visual Studio 2017\Projects\Assignment3 - Copy\Assignment3\obj\Debug\Assignment3.pdb
+C:\Users\john.wyke\Documents\Visual Studio 2017\Projects\Assignment7\Assignment3\obj\Debug\Assignment7.csprojResolveAssemblyReference.cache
+C:\Users\john.wyke\Documents\Visual Studio 2017\Projects\Assignment7\Assignment3\obj\Debug\Assignment3.Form1.resources
+C:\Users\john.wyke\Documents\Visual Studio 2017\Projects\Assignment7\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+C:\Users\john.wyke\Documents\Visual Studio 2017\Projects\Assignment7\Assignment3\obj\Debug\Assignment7.csproj.GenerateResource.Cache
+C:\Users\john.wyke\Documents\Visual Studio 2017\Projects\Assignment7\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\john.wyke\Documents\Visual Studio 2017\Projects\Assignment7\Assignment3\obj\Debug\Assignment3.pdb
+C:\Users\john.wyke\Documents\Visual Studio 2017\Projects\Assignment7\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\john.wyke\Documents\Visual Studio 2017\Projects\Assignment7\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\john.wyke\Documents\Visual Studio 2017\Projects\Assignment7\Assignment3\bin\Debug\Assignment3.pdb

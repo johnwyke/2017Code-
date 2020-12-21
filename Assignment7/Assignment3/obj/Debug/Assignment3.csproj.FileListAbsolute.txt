@@ -1,0 +1,9 @@
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.Cache
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.Form1.resources
