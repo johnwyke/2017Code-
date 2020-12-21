@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\john.wyke\documents\visual studio 2017\projects\singly_linked-lists\singly_linked-lists\source.cpp(470): warning C4101: 'error': unreferenced local variable
+c:\users\john.wyke\documents\visual studio 2017\projects\singly_linked-lists\singly_linked-lists\source.cpp(478): warning C4101: 'error': unreferenced local variable
+c:\users\john.wyke\documents\visual studio 2017\projects\singly_linked-lists\singly_linked-lists\source.cpp(525): warning C4101: 'error': unreferenced local variable
+c:\users\john.wyke\documents\visual studio 2017\projects\singly_linked-lists\singly_linked-lists\source.cpp(533): warning C4101: 'error': unreferenced local variable
+c:\users\john.wyke\documents\visual studio 2017\projects\singly_linked-lists\singly_linked-lists\source.cpp(152): warning C4018: '>': signed/unsigned mismatch
+  c:\users\john.wyke\documents\visual studio 2017\projects\singly_linked-lists\singly_linked-lists\source.cpp(146): note: while compiling class template member function 'int SinglyLinkedList<int>::getAtIndex(const unsigned int) const'
+  c:\users\john.wyke\documents\visual studio 2017\projects\singly_linked-lists\singly_linked-lists\source.cpp(453): note: see reference to function template instantiation 'int SinglyLinkedList<int>::getAtIndex(const unsigned int) const' being compiled
+  c:\users\john.wyke\documents\visual studio 2017\projects\singly_linked-lists\singly_linked-lists\source.cpp(444): note: see reference to class template instantiation 'SinglyLinkedList<int>' being compiled
+c:\users\john.wyke\documents\visual studio 2017\projects\singly_linked-lists\singly_linked-lists\source.cpp(180): warning C4018: '>': signed/unsigned mismatch
+  c:\users\john.wyke\documents\visual studio 2017\projects\singly_linked-lists\singly_linked-lists\source.cpp(174): note: while compiling class template member function 'int &SinglyLinkedList<int>::operator [](const unsigned int)'
+  c:\users\john.wyke\documents\visual studio 2017\projects\singly_linked-lists\singly_linked-lists\source.cpp(503): note: see reference to function template instantiation 'int &SinglyLinkedList<int>::operator [](const unsigned int)' being compiled
+c:\users\john.wyke\documents\visual studio 2017\projects\singly_linked-lists\singly_linked-lists\source.cpp(250): warning C4018: '>': signed/unsigned mismatch
+  c:\users\john.wyke\documents\visual studio 2017\projects\singly_linked-lists\singly_linked-lists\source.cpp(244): note: while compiling class template member function 'void SinglyLinkedList<int>::deleteAtIndex(const unsigned int)'
+  c:\users\john.wyke\documents\visual studio 2017\projects\singly_linked-lists\singly_linked-lists\source.cpp(587): note: see reference to function template instantiation 'void SinglyLinkedList<int>::deleteAtIndex(const unsigned int)' being compiled
+  singly_linked-lists.vcxproj -> C:\Users\john.wyke\Documents\Visual Studio 2017\Projects\singly_linked-lists\Debug\singly_linked-lists.exe
+  singly_linked-lists.vcxproj -> C:\Users\john.wyke\Documents\Visual Studio 2017\Projects\singly_linked-lists\Debug\singly_linked-lists.pdb (Partial PDB)
