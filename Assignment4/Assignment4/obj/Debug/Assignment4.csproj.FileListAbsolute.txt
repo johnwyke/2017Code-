@@ -1,0 +1,13 @@
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment4\Assignment4\obj\Debug\MainWindow.g.cs
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment4\Assignment4\obj\Debug\App.g.cs
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment4\Assignment4\obj\Debug\Assignment4_MarkupCompile.cache
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment4\Assignment4\obj\Debug\Assignment4_MarkupCompile.lref
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment4\Assignment4\obj\Debug\MainWindow.baml
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.g.resources
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.Properties.Resources.resources
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.GenerateResource.Cache
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\john.wyke\documents\visual studio 2017\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
